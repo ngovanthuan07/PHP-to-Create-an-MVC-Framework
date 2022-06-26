@@ -1,0 +1,15 @@
+{
+    "name": "ngova/phpmvc-framework",
+    "authors": [
+        {
+            "name": "Ngo Van Thuan 07",
+            "email": "ngovanthuan07@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "app\\": "./"
+        }
+    },
+    "require": {}
+}
